@@ -10,7 +10,7 @@
 
 
 ### ✅ 1. Check-in Pertama
-![Check-in Pertama](Praktikum 3/Tugas 3/Check-in.png)
+![Check-in Pertama](Check-in.png)
 > Gambar: hasil endpoint `/api/presensi/check-in` pertama kali berhasil.
 
 
