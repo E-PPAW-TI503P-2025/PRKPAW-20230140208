@@ -25,3 +25,8 @@
 ### 4️⃣ Presensi Check-out Tanpa Check-in
 ![Presensi Check-out tetapi belum Check-in](./Presensi%20Check-out%20tetapi%20belum%20melakukan%20check-in.png
 > Gambar 4: Gagal check-out karena belum melakukan check-in.
+
+
+### 5️⃣ Reports Daily
+![Reports Daily](./Reports%20Daily.png)
+> Gambar 5: Laporan harian berhasil diakses oleh admin.
