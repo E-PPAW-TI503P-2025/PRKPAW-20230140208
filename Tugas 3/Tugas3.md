@@ -10,7 +10,7 @@
 
 
 ### ✅ 1. Check-in Pertama
-![Check-in Pertama](Check-in.png)
+![Check-in Pertama](./Presensi%20Check-in.png)
 > Gambar: hasil endpoint `/api/presensi/check-in` pertama kali berhasil.
 
 
