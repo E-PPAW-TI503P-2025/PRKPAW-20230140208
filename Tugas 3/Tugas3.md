@@ -13,4 +13,8 @@
 ![Check-in Pertama](./Presensi%20Check-in.png)
 > Gambar: hasil endpoint `/api/presensi/check-in` pertama kali berhasil.
 
+### 2️⃣ Presensi Check-in 2 Kali
+![Presensi Check-in 2 kali](./Presensi%20Check-in%202%20kali.png)
+> Gambar 2: Check-in kedua ditolak karena sudah check-in sebelumnya.
+
 
