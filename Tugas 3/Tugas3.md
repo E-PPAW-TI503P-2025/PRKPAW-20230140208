@@ -9,7 +9,7 @@
 
 
 
-### ✅ 1. Check-in Pertama
+### 1. Check-in Pertama
 ![Check-in Pertama](./Presensi%20Check-in.png)
 > Gambar: hasil endpoint `/api/presensi/check-in` pertama kali berhasil.
 
@@ -19,11 +19,11 @@
 
 
 ### 3️⃣ Presensi Check-out
-![Presensi Check-out](./Presensi%20Check-out.png
+![Presensi Check-out](./Presensi%20Check-out.png)
 > Gambar 3: Check-out berhasil setelah check-in.
 
 ### 4️⃣ Presensi Check-out Tanpa Check-in
-![Presensi Check-out tetapi belum Check-in](./Presensi%20Check-out%20tetapi%20belum%20melakukan%20check-in.png
+![Presensi Check-out tetapi belum Check-in](./Presensi%20Check-out%20tetapi%20belum%20melakukan%20check-in.png)
 > Gambar 4: Gagal check-out karena belum melakukan check-in.
 
 
